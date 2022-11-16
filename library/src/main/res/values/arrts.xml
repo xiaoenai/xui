@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--可移动自动吸边的FrameLayout-->
+    <declare-styleable name="MoveFrameLayout">
+        <!--是否需要自动吸边-->
+        <attr name="IsAttach" format="boolean" />
+        <!--是否可拖曳-->
+        <attr name="IsDrag" format="boolean" />
+        <!--顶部限制高度-->
+        <attr name="MinY" format="integer" />
+        <!--底部限制高度-->
+        <attr name="MaxY" format="integer" />
+    </declare-styleable>
+</resources>
