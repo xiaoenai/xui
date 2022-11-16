@@ -1,0 +1,16 @@
+.idea
+.gradle
+apk/
+*.ap_
+*.iml
+*.project
+*.classpath
+.DS_Store
+.*.txt
+.*.tmp
+build/
+bin/
+gen/
+/*/bin/
+/*/gen/
+local.properties
