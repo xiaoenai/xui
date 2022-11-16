@@ -3,7 +3,7 @@ Android常用UI、工具集合
 
 # Usage
 
-```aidl
+```gradle
 implementation 'com.github.xiaoenai:xui:v0.0.1'
 ```
 
@@ -11,7 +11,7 @@ implementation 'com.github.xiaoenai:xui:v0.0.1'
 
 - 可移动的view
 
-```aidl
+```xml
 <com.xiaoenai.xui.MoveFrameLayout
         android:layout_width="match_parent"
         android:layout_height="100dp"
