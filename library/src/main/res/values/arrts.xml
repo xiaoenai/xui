@@ -11,4 +11,12 @@
         <!--底部限制高度-->
         <attr name="MaxY" format="integer" />
     </declare-styleable>
+
+    <declare-styleable name="HollowTextView">
+        <!--文字背景颜色-->
+        <attr name="background_color" format="color" />
+        <!--背景圆角-->
+        <attr name="background_radius" format="dimension" />
+    </declare-styleable>
+
 </resources>
