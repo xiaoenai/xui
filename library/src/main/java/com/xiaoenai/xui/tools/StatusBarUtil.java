@@ -1,4 +1,4 @@
-package com.xiaoenai.xui;
+package com.xiaoenai.xui.tools;
 
 import android.content.Context;
 import android.os.Build;

@@ -30,3 +30,18 @@ implementation 'com.github.xiaoenai:xui:v0.0.1'
         tools:textSize="14sp" />
 </com.xiaoenai.xui.MoveFrameLayout>
 ```
+- 镂空TextView(字体透明，显示背景颜色)
+
+```xml
+    <com.xiaoenai.app.xlove.view.widget.HollowTextView
+        android:id="@+id/tv_accept"
+        android:layout_width="90dp"
+        android:layout_height="32dp"
+        android:layout_marginLeft="18dp"
+        android:gravity="center"
+        android:text="接受"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:background_color="@color/white"
+        app:background_radius="28dp" />
+```

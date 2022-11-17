@@ -11,6 +11,9 @@ import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
+import com.xiaoenai.xui.tools.SizeUtils;
+import com.xiaoenai.xui.tools.StatusBarUtil;
+
 /**
  * @Description: 可移动吸边的FL
  * @ClassName: MoveFrameLayout
